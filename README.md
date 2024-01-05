@@ -2,7 +2,7 @@
 ###
 <img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDljemplOTh6djRwMm00Z2hsYTBvNXptMnJsbDdiZ3UyeWc3NXBlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif"  />
 
-# 💫 About Me [![](https://visitcount.itsvg.in/api?id=chikobara&icon=0&color=6)](https://visitcount.itsvg.in)
+# 💫 About Me [![](https://visitcount.itsvg.in/api?id=chikobara&icon=0&color=12)](https://visitcount.itsvg.in)
 
 
 -🔭 I’m currently working on **"Living normal life"**<br><br>-🌱 I’m currently learning **IBM Data Science Course, .Net Framework**<br><br>- 💬 Ask me about **Python, C++, Java**<br><br>- 📫 How to reach me **<albaraa.as.2002@gmail.com>**
