@@ -102,8 +102,8 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/chikobara/chikobara/output/snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/chikobara/chikobara/blob/output/github-contribution-grid-snake2.svg)
+<!-- <img src="https://raw.githubusercontent.com/chikobara/chikobara/output/snake.svg" alt="Snake animation" /> -->
 
 ![](https://github-readme-stats.vercel.app/api?username=chikobara&theme=nord&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chikobara&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
