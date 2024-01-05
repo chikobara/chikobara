@@ -6,7 +6,7 @@
 
 
 
--🔭 I’m currently working on **"Living normal life"**<br><br>-🌱 I’m currently learning **IBM Data Science Course, .Net Framework**<br><br>- 💬 Ask me about **Python, C++, Java**<br><br>- 📫 How to reach me **<albaraa.as.2002@gmail.com>**
+-🔭 I’m currently working on **"Living normal life"**<br><br>-🌱 I’m currently learning **IBM Data Science Course, .Net Framework**<br><br>- 💬 Ask me about **Linux (Arch, Debian,...), Windows, Python, C++, Java**<br><br>- 📫 How to reach me **<albaraa.as.2002@gmail.com>**
 
 ## 💰 You can help me by Donating
 
