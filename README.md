@@ -3,7 +3,7 @@
 <img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDljemplOTh6djRwMm00Z2hsYTBvNXptMnJsbDdiZ3UyeWc3NXBlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif"  />
 
 # 💫 About Me [![](https://visitcount.itsvg.in/api?id=chikobara&icon=0&color=12)](https://visitcount.itsvg.in)
-[![](https://getkairo.com/embed-local?id=e1e6447e-2407-418d-8c81-a828f0f865bc&local=true&title=Focus&type=Block&color=cyan&size=2&faceType=default)
+
 
 
 -🔭 I’m currently working on **"Living normal life"**<br><br>-🌱 I’m currently learning **IBM Data Science Course, .Net Framework**<br><br>- 💬 Ask me about **Linux (Arch, Debian,...), Windows, Python, C++, Java**<br><br>- 📫 How to reach me **<albaraa.as.2002@gmail.com>**
@@ -12,6 +12,8 @@
 
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/chikobara) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/chikobara)
 
+## 
+[![](https://getkairo.com/embed-local?id=e1e6447e-2407-418d-8c81-a828f0f865bc&local=true&title=Focus&type=Block&color=cyan&size=2&faceType=default)
 
 
 ## 🌐 Socials
