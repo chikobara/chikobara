@@ -1,4 +1,4 @@
-<img align="left" height="100" src="https://github.com/chikobara/chikobara/blob/main/08833628.gif?raw=true" />
+<img align="left" height="600" src="https://github.com/chikobara/chikobara/blob/main/08833628.gif?raw=true" />
 
 ###
 
