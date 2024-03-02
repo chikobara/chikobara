@@ -4,7 +4,7 @@
 ###
 
 <img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDljemplOTh6djRwMm00Z2hsYTBvNXptMnJsbDdiZ3UyeWc3NXBlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif"  />
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="20535e30-56e7-4e2a-b117-38ef2a0c8ee3" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 # 💫 About Me [![](https://visitcount.itsvg.in/api?id=chikobara&icon=0&color=12)](https://visitcount.itsvg.in)
 
 -🔭 I’m currently working on **"Living normal life"**<br><br>-🌱 I’m currently learning **IBM Data Science Specialization, .Net Framework and Meta Back-End Developer Specialization**<br><br>- 💬 Ask me about **Linux (Arch, Debian,...), Windows, Python, C++, Java**<br><br>- 📫 How to reach me **<albaraa.as.2002@gmail.com>**
