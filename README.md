@@ -30,21 +30,7 @@
 <img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDljemplOTh6djRwMm00Z2hsYTBvNXptMnJsbDdiZ3UyeWc3NXBlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif" />
 
 <div align="center">
-  <div align="center">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript logo" width="65" height="65">
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript logo" width="65" height="65">
-  <img src="https://techstack-generator.vercel.app/rescript-icon.svg" alt="Rescript logo" width="65" height="65">
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++ logo" width="65" height="65">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React.js logo" width="65" height="65">
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier logo" width="65" height="65">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python logo" width="65" height="65">
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django logo" width="65" height="65">
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub logo" width="65" height="65">
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx logo" width="65" height="65">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java logo" width="65" height="65">
-  </div>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height="40" alt="Arch Linux Logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="40" alt="redhat logo"  />
@@ -54,8 +40,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" alt="Linux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++ logo" width="65" height="65">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python logo" width="65" height="65">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
@@ -63,16 +49,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="qt logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django logo" width="65" height="65">
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" height="40" alt="mongodb logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" height="40" alt="nextjs logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="40" alt="reactjs logo" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React.js logo" width="65" height="65">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" height="40" alt="electronjs logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java logo" width="65" height="65">
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript logo" width="65" height="65">
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript logo" width="65" height="65">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
@@ -83,6 +72,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier logo" width="65" height="65">
+  
 </div>
 
 # 📊 GitHub Stats
