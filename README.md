@@ -30,6 +30,20 @@
 <img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDljemplOTh6djRwMm00Z2hsYTBvNXptMnJsbDdiZ3UyeWc3NXBlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif" />
 
 <div align="center">
+  <div align="center">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript logo" width="65" height="65">
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript logo" width="65" height="65">
+  <img src="https://techstack-generator.vercel.app/rescript-icon.svg" alt="Rescript logo" width="65" height="65">
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++ logo" width="65" height="65">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React.js logo" width="65" height="65">
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier logo" width="65" height="65">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python logo" width="65" height="65">
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django logo" width="65" height="65">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub logo" width="65" height="65">
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx logo" width="65" height="65">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java logo" width="65" height="65">
+  </div>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height="40" alt="Arch Linux Logo"  />
