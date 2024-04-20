@@ -10,9 +10,6 @@
 
 -🌱 I’m currently learning **IBM Data Science Specialization, Meta Back-End Developer Specialization, MongoDB, R and NextJS**<br><br>- 💬 Ask me about **Linux (Arch, Debian,...), Windows, Python, C++ and JS**<br><br>- 📫 How to reach me **<albaraa.as.2002@gmail.com>**
 
-<br>
-## Certificates
-
 
 <br><br><br><br>
 ## 💰 You can help me by Donating
