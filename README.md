@@ -56,16 +56,13 @@ Cuda         33 mins         █░░░░░░░░░░░░░░░░
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="65" alt="flask logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" height="65" alt="mongodb logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" height="65" alt="nextjs logo" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React.js logo" width="65" height="65">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" height="65" alt="electronjs logo" />
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java logo" width="65" height="65">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="65" alt="npm logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="65" alt="nodejs logo"/>
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript logo" width="65" height="65">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React.js logo" width="65" height="65">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" height="65" alt="electronjs logo" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript logo" width="65" height="65">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="65" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="65" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="65" alt="bootstrap logo"  />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" height="65" alt=" markdown logo">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="65" alt="matlab logo"  />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" height="65" alt=" latex logo">
