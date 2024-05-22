@@ -39,13 +39,14 @@ Other        10 mins         ▒░░░░░░░░░░░░░░░░
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="65" alt="vim logo"  />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub logo" width="65" height="65">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="65" alt="git logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="65" alt="Linux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height="65" alt="Arch Linux Logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="65" alt="debian logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="65" alt="apple logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="65" alt="android logo"  />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="65" alt="Linux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="65" alt="bash logo"  />
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++ logo" width="65" height="65">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java logo" width="65" height="65">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python logo" width="65" height="65">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="65" alt="jupyter logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="65" alt="numpy logo"  />
@@ -57,7 +58,6 @@ Other        10 mins         ▒░░░░░░░░░░░░░░░░
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="65" alt="flask logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" height="65" alt="mongodb logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" height="65" alt="nextjs logo" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java logo" width="65" height="65">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="65" alt="npm logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="65" alt="nodejs logo"/>
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript logo" width="65" height="65">
