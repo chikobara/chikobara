@@ -58,7 +58,6 @@ Other        10 mins         ▒░░░░░░░░░░░░░░░░
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="65" alt="flask logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" height="65" alt="mongodb logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" height="65" alt="nextjs logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="65" alt="npm logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="65" alt="nodejs logo"/>
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript logo" width="65" height="65">
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React.js logo" width="65" height="65">
