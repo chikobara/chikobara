@@ -1,15 +1,19 @@
 <!--  <img align="left" height="400" src="https://github.com/chikobara/chikobara/blob/main/08833628.gif?raw=true" /> -->
 
-
 ###
 
 # 💫 About Me [![](https://visitcount.itsvg.in/api?id=chikobara&icon=0&color=12)](https://visitcount.itsvg.in)
 
--🔭 I’m currently working on new project called **"zi-ba-ra"** 
+-🔭 I’m currently working on new project called **"zi-ba-ra"**
 <a href="https://www.credly.com/badges/20535e30-56e7-4e2a-b117-38ef2a0c8ee3/public_url"><img align="right" height="300" src="https://images.credly.com/size/340x340/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png"></a>
 
--🌱 I’m currently learning **IBM Data Science Specialization, Meta Back-End Developer Specialization, MongoDB, R and NextJS**<br><br>- 📫 How to reach me **<albaraa.as.2002@gmail.com>**
+-🌱 I’m currently learning
 
+- **IBM Data Science Specialization**
+- **Meta Back-End Developer Specialization**
+- **MongoDB, R and NextJS**
+
+-📫 How to reach me **<albaraa.as.2002@gmail.com>**
 
 <br><br><br><br>
 
@@ -18,7 +22,8 @@
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/chikobara) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_chikobara) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/albaraa-alsmail)[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/chikobara) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/chikobara) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@chikobara)
 
 ---
-## 📊 Last 7 days PLs :
+
+## 📊 Last 7 days PLs
  <!--START_SECTION:waka-->
 
 ```txt
@@ -33,6 +38,7 @@ Other         6 mins          ▒░░░░░░░░░░░░░░░�
 ###
 
 # 💻 Tech Stack
+
 <img align="right" height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDljemplOTh6djRwMm00Z2hsYTBvNXptMnJsbDdiZ3UyeWc3NXBlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif" />
 
 <div align="center">
@@ -55,9 +61,9 @@ Other         6 mins          ▒░░░░░░░░░░░░░░░�
   
 </div>
 
+<br/><br/>
+<br/><br/>
 
-<br/><br/>
-<br/><br/>
 # 📊 GitHub Stats
 
 ###
