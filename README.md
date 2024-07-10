@@ -23,7 +23,7 @@
 
 ---
 
-## 📊 Last 7 days PLs  [![wakatime](https://wakatime.com/badge/user/0f89afa4-1089-41cd-81da-b5f372408386.svg)](https://wakatime.com/@0f89afa4-1089-41cd-81da-b5f372408386)
+## 📊 Wakatime Status  [![wakatime](https://wakatime.com/badge/user/0f89afa4-1089-41cd-81da-b5f372408386.svg)](https://wakatime.com/@0f89afa4-1089-41cd-81da-b5f372408386)
  <!--START_SECTION:waka-->
 
 ```txt
