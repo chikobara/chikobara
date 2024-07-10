@@ -77,6 +77,6 @@ TypeScript   31 mins         █░░░░░░░░░░░░░░░░
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chikobara&radius=16&theme=nord&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
+[![Chiko's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chikobara)]
 
 
-[![Chiko's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chikobara)](https://github.com/anuraghazra/github-readme-stats)
