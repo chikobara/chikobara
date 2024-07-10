@@ -76,3 +76,7 @@ TypeScript   31 mins         █░░░░░░░░░░░░░░░░
   <img src="https://github-profile-trophy.vercel.app?username=chikobara&theme=nord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chikobara&radius=16&theme=nord&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+
+
+[![Chiko's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chikobara)](https://github.com/anuraghazra/github-readme-stats)
