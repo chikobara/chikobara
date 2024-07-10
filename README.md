@@ -2,7 +2,7 @@
 
 ###
 
-# 💫 About Me [![](https://visitcount.itsvg.in/api?id=chikobara&icon=0&color=12)](https://visitcount.itsvg.in) [![wakatime](https://wakatime.com/badge/user/0f89afa4-1089-41cd-81da-b5f372408386.svg)](https://wakatime.com/@0f89afa4-1089-41cd-81da-b5f372408386)
+# 💫 About Me [![](https://visitcount.itsvg.in/api?id=chikobara&icon=0&color=12)](https://visitcount.itsvg.in)
 
 -🔭 I’m currently working on new project called **"zi-ba-ra"**
 <a href="https://www.credly.com/badges/20535e30-56e7-4e2a-b117-38ef2a0c8ee3/public_url"><img align="right" height="300" src="https://images.credly.com/size/340x340/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png"></a>
@@ -23,7 +23,7 @@
 
 ---
 
-## 📊 Last 7 days PLs
+## 📊 Last 7 days PLs  [![wakatime](https://wakatime.com/badge/user/0f89afa4-1089-41cd-81da-b5f372408386.svg)](https://wakatime.com/@0f89afa4-1089-41cd-81da-b5f372408386)
  <!--START_SECTION:waka-->
 
 ```txt
