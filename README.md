@@ -12,7 +12,7 @@
 
 -🌱 I’m currently learning
 
-- **MongoDB, R and NextJS**
+- **Rust, R for Data Science and NextJS**
 - **IBM Data Science Specialization**
 - **Meta Back-End Developer Specialization**
 
