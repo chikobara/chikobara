@@ -30,11 +30,11 @@
  <!--START_SECTION:waka-->
 
 ```txt
-Other          38 hrs 4 mins   ██████████████████▒░░░░░░   73.86 %
-TypeScript     10 hrs 34 mins  █████░░░░░░░░░░░░░░░░░░░░   20.50 %
+Other          39 hrs 14 mins  ███████████████████░░░░░░   75.92 %
+TypeScript     8 hrs 16 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
 JSON           1 hr 32 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+conf           1 hr 10 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
 Canva Design   30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
-JavaScript     17 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 ```
 
 <!--END_SECTION:waka-->
