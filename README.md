@@ -7,7 +7,7 @@
 
 🌌 Code Voyager | 👨‍💻 Passionate Programmer | 🚀 Space Enthusiast
 
--🔭 I’m currently working on new project called **"[Memoir](https://github.com/MemoirApplication/Memoir-App)"**
+<!-- -🔭 I’m currently working on new project called **"[Memoir](https://github.com/MemoirApplication/Memoir-App)"** -->
 <a href="https://www.credly.com/badges/20535e30-56e7-4e2a-b117-38ef2a0c8ee3/public_url"><img align="right" height="300" src="https://images.credly.com/size/340x340/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png"></a>
 
 -🌱 I’m currently learning
