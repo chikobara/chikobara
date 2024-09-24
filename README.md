@@ -66,12 +66,8 @@ Python       17 mins         ▒░░░░░░░░░░░░░░░░
 
 # 📊 GitHub Stats
 
-<div style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/chikobara/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="Image">
-  <img src="https://raw.githubusercontent.com/chikobara/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Image">
-</div>
-
-
+![](https://raw.githubusercontent.com/chikobara/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/chikobara/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 <br clear="both">
 <img src="https://raw.githubusercontent.com/chikobara/chikobara/output/snake.svg" alt="Snake animation" />
