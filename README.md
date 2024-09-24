@@ -31,7 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="65" alt="git logo"  />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="65" alt="Linux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height="65" alt="Arch Linux Logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="65" alt="bash logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="65" alt="bash logo"  />
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++ logo" width="65" height="65">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python logo" width="65" height="65">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="65" alt="tensorflow logo"  />
