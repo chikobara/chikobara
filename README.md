@@ -55,11 +55,11 @@ Weekly statistics
 <!--START_SECTION:waka-->
 
 ```txt
-Other        26 hrs 3 mins   ██████████████████████▒░░   89.19 %
-Markdown     1 hr 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
-Python       42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
-Bash         36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
-JavaScript   25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+Other        31 hrs 46 mins  ███████████████████████▓░   94.47 %
+Python       42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+Markdown     31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+JavaScript   25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+Makefile     6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
