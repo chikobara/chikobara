@@ -11,7 +11,7 @@
 
 -🌱 I’m currently learning
 
-- **Languages: Rust, R for Data Science**
+- **Languages: Rust, Keras, PyTorch, TensorFlow**
 - **IBM AI Engineering Specialization**
 - **Meta Back-End Developer Specialization**
 
