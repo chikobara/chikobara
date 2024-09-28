@@ -7,7 +7,7 @@
 🌌 Code Voyager | 👨‍💻 Passionate Programmer | 🚀 Space Enthusiast
 
 <!-- -🔭 I’m currently working on new project called **"[Memoir](https://github.com/MemoirApplication/Memoir-App)"** -->
-<a href="https://www.credly.com/badges/20535e30-56e7-4e2a-b117-38ef2a0c8ee3/public_url"><img align="right" height="300" src="https://images.credly.com/size/340x340/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png"></a>
+<a href="https://github.com/chikobara/gnome-dotfiles/blob/main/astro.png"><img align="right" height="300" src="https://github.com/chikobara/gnome-dotfiles/blob/main/astro.png"></a>
 
 -🌱 I’m currently learning
 
@@ -24,7 +24,10 @@
 
 # 💻 Tech Stack
 
-<img align="right" height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDljemplOTh6djRwMm00Z2hsYTBvNXptMnJsbDdiZ3UyeWc3NXBlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif" style="border-radius:50%;"/>
+
+<a href="https://www.credly.com/badges/20535e30-56e7-4e2a-b117-38ef2a0c8ee3/public_url"><img align="right" height="250" src="https://images.credly.com/size/340x340/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png"></a>
+
+<!---<img align="right" height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDljemplOTh6djRwMm00Z2hsYTBvNXptMnJsbDdiZ3UyeWc3NXBlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif" style="border-radius:50%;"/> --->
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="65" alt="vim logo"  />
