@@ -26,6 +26,7 @@
 
 
 <a href="https://www.credly.com/badges/20535e30-56e7-4e2a-b117-38ef2a0c8ee3/public_url"><img align="right" height="250" src="https://images.credly.com/size/340x340/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png"></a>
+<a href="https://aasxhp5ab.cc.rs6.net/tn.jsp?f=001_ZhrWlqH8niCr3GOqkquq_1EHL2RrX7mf4wmiPVtEb_LUfXcIRZfxCFFDii7dqUdUYnFeULaCTRJb8Ye4mWomZ0289hHxUdNvj6tWkaKQQPaZZwKjHdU_XHlBQe6SZq4yG640xxZNlSlkbg1HKBUeHfX7HTFGvFniV6v-cgakAJZBYT0JrvkAWgHW0rDWrZOeKs5Mu7wR30T8a8j1TfrTS6m5WSwhIvrHv1liLJjVdlKc87V2z2EkYgH8IReeufs&c=7iMYYO1aR8iIVjBUuQ6SkM1qzkGw5jWW1NnmbICcaIS4vg6pGWmOPg==&ch=AJ_JXeaNmZgdFoEDdjY4xZQEsTk6iCs0Ye2kaa_x2JQcK9AO0hzh7Q=="><img aligh="right" height="250" src="https://ci3.googleusercontent.com/meips/ADKq_NZ8ZIrp-4UPMKE_7l186UNJmmMWPDaXbnyKg1sNIg4u0EIFjTt-E6R4DosV0Tb3jjQEmifScS0Th4smR-v4ydW2cHpkufObyq44nLbMR1W1IO4eHNccQFYdj6Ryy56HYEqDNypzc6vjUPt6Jj5mhjeMdzezYA=s0-d-e1-ft#https://files.constantcontact.com/008cb7e9701/03d93301-a6a2-43c1-93fe-7dc1c3fc9b32.png?rdr=true"></a>
 
 <!---<img align="right" height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDljemplOTh6djRwMm00Z2hsYTBvNXptMnJsbDdiZ3UyeWc3NXBlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif" style="border-radius:50%;"/> --->
 
