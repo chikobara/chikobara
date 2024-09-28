@@ -11,8 +11,8 @@
 
 -🌱 I’m currently learning
 
-- **Rust, R for Data Science and NextJS**
-- **IBM Data Science Specialization**
+- **Languages: Rust, R for Data Science**
+- **IBM AI Engineering Specialization**
 - **Meta Back-End Developer Specialization**
 
 -📫 How to reach me **<albaraa.as.2002@gmail.com>**
