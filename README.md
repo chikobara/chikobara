@@ -8,7 +8,6 @@
 
 <!-- -🔭 I’m currently working on new project called **"[Memoir](https://github.com/MemoirApplication/Memoir-App)"** -->
 
-
 🌱 Currently learning
 
 - **Languages: Rust, Keras, PyTorch, TensorFlow**
@@ -19,7 +18,7 @@
 
 ![Discord](https://dcbadge.limes.pink/api/shield/416283373682819072?style=flat&compact=true) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/albaraa-alsmail) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/chikobara) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17065744/chikobara)
 
----
+###
 
 <a href="https://www.credly.com/badges/20535e30-56e7-4e2a-b117-38ef2a0c8ee3/public_url">
   <img align="center" height="250" src="https://images.credly.com/size/340x340/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png">
@@ -34,7 +33,6 @@
 <!-- # 💻 Tech Stack -->
 
 <!-- <a href="https://github.com/chikobara/gnome-dotfiles/blob/main/astro.png"><img align="right" height="300" src="https://github.com/chikobara/gnome-dotfiles/blob/main/astro.png"></a> -->
-
 
 <!---<img align="right" height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDljemplOTh6djRwMm00Z2hsYTBvNXptMnJsbDdiZ3UyeWc3NXBlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif" style="border-radius:50%;"/> --->
 <!-- 
@@ -60,9 +58,15 @@
 </div> -->
 <!-- <br><br> -->
 
+###
 
+# 📊 GitHub Stats
+
+![](https://raw.githubusercontent.com/chikobara/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/chikobara/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 # 📊 Wakatime Stats [![wakatime](https://wakatime.com/badge/user/0f89afa4-1089-41cd-81da-b5f372408386.svg)](https://wakatime.com/@0f89afa4-1089-41cd-81da-b5f372408386)
+
 ### Weekly statistics
 <!--START_SECTION:waka-->
 
@@ -75,15 +79,9 @@ Makefile     6 mins          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-###
 
-# 📊 GitHub Stats
-
-![](https://raw.githubusercontent.com/chikobara/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/chikobara/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
-<br clear="both">
-<img src="https://raw.githubusercontent.com/chikobara/chikobara/output/snake.svg" alt="Snake animation" />
+<!-- <br clear="both"> -->
+<!-- <img src="https://raw.githubusercontent.com/chikobara/chikobara/output/snake.svg" alt="Snake animation" /> -->
 
 <!-- 
 ###
