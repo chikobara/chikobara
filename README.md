@@ -26,8 +26,7 @@
 </a>
 
 <a href="https://aasxhp5ab.cc.rs6.net/tn.jsp?f=001_ZhrWlqH8niCr3GOqkquq_1EHL2RrX7mf4wmiPVtEb_LUfXcIRZfxCFFDii7dqUdUYnFeULaCTRJb8Ye4mWomZ0289hHxUdNvj6tWkaKQQPaZZwKjHdU_XHlBQe6SZq4yG640xxZNlSlkbg1HKBUeHfX7HTFGvFniV6v-cgakAJZBYT0JrvkAWgHW0rDWrZOeKs5Mu7wR30T8a8j1TfrTS6m5WSwhIvrHv1liLJjVdlKc87V2z2EkYgH8IReeufs&c=7iMYYO1aR8iIVjBUuQ6SkM1qzkGw5jWW1NnmbICcaIS4vg6pGWmOPg==&ch=AJ_JXeaNmZgdFoEDdjY4xZQEsTk6iCs0Ye2kaa_x2JQcK9AO0hzh7Q==">
-  <img align="center" height="250" src="./Virtual Guest Passport Stamp_Crew9_SLC40_Final_2024
-  .png">
+  <img align="center" height="250" src="https://github.com/chikobara/chikobara/blob/main/Virtual%20Guest%20Passport%20Stamp_Crew9_SLC40_Final_2024%0A.png">
 </a>
 
 <br><br>
