@@ -9,35 +9,35 @@
 <!-- -🔭 I’m currently working on new project called **"[Memoir](https://github.com/MemoirApplication/Memoir-App)"** -->
 
 
--🌱 I’m currently learning
+🌱 Currently learning
 
 - **Languages: Rust, Keras, PyTorch, TensorFlow**
 - **IBM AI Engineering Specialization**
 - **Meta Back-End Developer Specialization**
 
--📫 How to reach me **<albaraa.as.2002@gmail.com>**
+-📫 Reach me **<albaraa.as.2002@gmail.com>**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/albaraa-alsmail) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/chikobara) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17065744/chikobara)
-
-<a href="https://www.credly.com/badges/20535e30-56e7-4e2a-b117-38ef2a0c8ee3/public_url">
-  <img align="left" height="250" src="https://images.credly.com/size/340x340/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png">
-</a>
-
-<a href="https://aasxhp5ab.cc.rs6.net/tn.jsp?f=001_ZhrWlqH8niCr3GOqkquq_1EHL2RrX7mf4wmiPVtEb_LUfXcIRZfxCFFDii7dqUdUYnFeULaCTRJb8Ye4mWomZ0289hHxUdNvj6tWkaKQQPaZZwKjHdU_XHlBQe6SZq4yG640xxZNlSlkbg1HKBUeHfX7HTFGvFniV6v-cgakAJZBYT0JrvkAWgHW0rDWrZOeKs5Mu7wR30T8a8j1TfrTS6m5WSwhIvrHv1liLJjVdlKc87V2z2EkYgH8IReeufs&c=7iMYYO1aR8iIVjBUuQ6SkM1qzkGw5jWW1NnmbICcaIS4vg6pGWmOPg==&ch=AJ_JXeaNmZgdFoEDdjY4xZQEsTk6iCs0Ye2kaa_x2JQcK9AO0hzh7Q==">
-  <img height="250" src="https://ci3.googleusercontent.com/meips/ADKq_NZ8ZIrp-4UPMKE_7l186UNJmmMWPDaXbnyKg1sNIg4u0EIFjTt-E6R4DosV0Tb3jjQEmifScS0Th4smR-v4ydW2cHpkufObyq44nLbMR1W1IO4eHNccQFYdj6Ryy56HYEqDNypzc6vjUPt6Jj5mhjeMdzezYA=s0-d-e1-ft#https://files.constantcontact.com/008cb7e9701/03d93301-a6a2-43c1-93fe-7dc1c3fc9b32.png?rdr=true">
-</a>
+![Discord](https://dcbadge.limes.pink/api/shield/416283373682819072?style=flat&compact=true) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/albaraa-alsmail) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/chikobara) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17065744/chikobara)
 
 ---
 
-<br><br><br>
+<a href="https://www.credly.com/badges/20535e30-56e7-4e2a-b117-38ef2a0c8ee3/public_url">
+  <img align="center" height="250" src="https://images.credly.com/size/340x340/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png">
+</a>
 
-# 💻 Tech Stack
+<a href="https://aasxhp5ab.cc.rs6.net/tn.jsp?f=001_ZhrWlqH8niCr3GOqkquq_1EHL2RrX7mf4wmiPVtEb_LUfXcIRZfxCFFDii7dqUdUYnFeULaCTRJb8Ye4mWomZ0289hHxUdNvj6tWkaKQQPaZZwKjHdU_XHlBQe6SZq4yG640xxZNlSlkbg1HKBUeHfX7HTFGvFniV6v-cgakAJZBYT0JrvkAWgHW0rDWrZOeKs5Mu7wR30T8a8j1TfrTS6m5WSwhIvrHv1liLJjVdlKc87V2z2EkYgH8IReeufs&c=7iMYYO1aR8iIVjBUuQ6SkM1qzkGw5jWW1NnmbICcaIS4vg6pGWmOPg==&ch=AJ_JXeaNmZgdFoEDdjY4xZQEsTk6iCs0Ye2kaa_x2JQcK9AO0hzh7Q==">
+  <img align="center" height="250" src="https://ci3.googleusercontent.com/meips/ADKq_NZ8ZIrp-4UPMKE_7l186UNJmmMWPDaXbnyKg1sNIg4u0EIFjTt-E6R4DosV0Tb3jjQEmifScS0Th4smR-v4ydW2cHpkufObyq44nLbMR1W1IO4eHNccQFYdj6Ryy56HYEqDNypzc6vjUPt6Jj5mhjeMdzezYA=s0-d-e1-ft#https://files.constantcontact.com/008cb7e9701/03d93301-a6a2-43c1-93fe-7dc1c3fc9b32.png?rdr=true">
+</a>
+
+<br><br>
+
+<!-- # 💻 Tech Stack -->
 
 <!-- <a href="https://github.com/chikobara/gnome-dotfiles/blob/main/astro.png"><img align="right" height="300" src="https://github.com/chikobara/gnome-dotfiles/blob/main/astro.png"></a> -->
 
 
 <!---<img align="right" height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDljemplOTh6djRwMm00Z2hsYTBvNXptMnJsbDdiZ3UyeWc3NXBlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif" style="border-radius:50%;"/> --->
-
+<!-- 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="65" alt="vim logo"  />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" height="65" alt="git logo" style="background-color:white;border-radius:20%;"  />
@@ -57,13 +57,13 @@
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript logo" width="65" height="65">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="65" alt="oracle logo"  />
   
-</div>
-<br><br>
+</div> -->
+<!-- <br><br> -->
 
 
 
 # 📊 Wakatime Stats [![wakatime](https://wakatime.com/badge/user/0f89afa4-1089-41cd-81da-b5f372408386.svg)](https://wakatime.com/@0f89afa4-1089-41cd-81da-b5f372408386)
-Weekly statistics
+### Weekly statistics
 <!--START_SECTION:waka-->
 
 ```txt
