@@ -10,7 +10,7 @@
 
 🌱 Currently learning
 
-- **Languages: Rust, Keras, PyTorch, TensorFlow**
+- **Rust, Keras, PyTorch, TensorFlow**
 - **IBM AI Engineering Specialization**
 - **Meta Back-End Developer Specialization**
 
