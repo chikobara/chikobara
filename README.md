@@ -2,7 +2,8 @@
 
 ###
 
-# 💫"To infinity and beyond!" [![](https://visitcount.itsvg.in/api?id=chikobara&icon=0&color=12)](https://visitcount.itsvg.in)
+# 💫"To infinity and beyond!" 
+<!-- [![](https://visitcount.itsvg.in/api?id=chikobara&icon=0&color=12)](https://visitcount.itsvg.in) -->
 
 🌌 Code Voyager | 👨‍💻 Passionate Programmer | 🚀 Space Enthusiast
 
