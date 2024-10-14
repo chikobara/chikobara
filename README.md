@@ -30,7 +30,7 @@
 </a>
 
 <a href="https://aasxhp5ab.cc.rs6.net/tn.jsp?f=001aiyQtqzYNMVfv5bSD4rj33ZCmAvsRDmhR71FaIqflkTsV0jDA6-g6aEn_uvj5QcWT0DzsdHutJRTNG-cfMKUjd4Si1PKvEkRr7hO5SKhbNf_CPLb1G30cF43l1fCzWjmj5Wlq3HpjPJFl6ALaK6E6QyyUZBU0YiT8HyD1dppsCN4L2PLtxNIvF-D5RhZztEmv1GDfwxIjH7nEunl0m7jkOkybjPUT_GLo8ZaZ2HLkEkfzb6egS2yHIFWM-bDV9HN&c=UbM5o7aPCPpfSmUyB14zRbK19l0DG_pS_ZE1D74V0t8XreirP1fqNg==&ch=TmbeplMOCLmuM-qpqNjLg3HzgENgawMjP54wltFL4W6KNkDTxsi6uQ==">
-<img align='center' height="250" src=""></a>
+<img align='center' height="250" src="https://github.com/chikobara/chikobara/blob/main/VIrtual%20Guest%20Passport%20Stamp_Europa%20Clipper_Spacecraft.png"></a>
 
 <br><br>
 
