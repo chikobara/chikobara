@@ -29,6 +29,9 @@
   <img align="center" height="250" src="https://github.com/chikobara/chikobara/blob/main/Virtual%20Guest%20Passport%20Stamp_Crew9_SLC40_Final_2024%0A.png">
 </a>
 
+<a href="https://files.constantcontact.com/008cb7e9701/4403ea81-01e4-47e5-97e3-8c5d2cb317cd.pdf?rdr=true">
+<img align='center' height="250" src=""></a>
+
 <br><br>
 
 <!-- # 💻 Tech Stack -->
