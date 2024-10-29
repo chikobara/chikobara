@@ -20,7 +20,10 @@
 ![Discord](https://dcbadge.limes.pink/api/shield/416283373682819072?style=flat&compact=true) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/chikobara) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17065744/chikobara)
 
 ###
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8f9dc32a-dc2d-481d-9487-371d32b836ea" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<a href="https://www.credly.com/badges/8f9dc32a-dc2d-481d-9487-371d32b836ea/public_url">
+  <img align="center" height="250" src="https://images.credly.com/size/340x340/images/f283df3d-1780-4c2d-947d-fc80eae0953b/image.png">
+</a>
 
 <a href="https://www.credly.com/badges/20535e30-56e7-4e2a-b117-38ef2a0c8ee3/public_url">
   <img align="center" height="250" src="https://images.credly.com/size/340x340/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png">
