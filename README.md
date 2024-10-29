@@ -21,7 +21,9 @@
 
 ###
 
-![Rounded Image](https://images.credly.com/size/340x340/images/f283df3d-1780-4c2d-947d-fc80eae0953b/image.png&h=200&w=200&crop=auto&fit=circle)
+<a href="https://www.credly.com/badges/8f9dc32a-dc2d-481d-9487-371d32b836ea/public_url">
+  <img src="https://images.credly.com/size/340x340/images/f283df3d-1780-4c2d-947d-fc80eae0953b/image.png" height="auto" width="200" style="border-radius:50%">
+</a>
 
 <a href="https://www.credly.com/badges/8f9dc32a-dc2d-481d-9487-371d32b836ea/public_url">
   <img align="center" style="border-radius: 50%;" height="250" src="https://images.credly.com/size/340x340/images/f283df3d-1780-4c2d-947d-fc80eae0953b/image.png">
