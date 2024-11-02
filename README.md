@@ -22,19 +22,20 @@
 ###
 
 <a href="https://www.credly.com/badges/8f9dc32a-dc2d-481d-9487-371d32b836ea/public_url">
-  <img align="center" style="border-radius: 50%;" height="250" src="./ibm-ml-badge.png">
+  <img align="center" style="border-radius: 50%;" height="150" src="./ibm-ml-badge.png">
 </a>
 
 <a href="https://www.credly.com/badges/20535e30-56e7-4e2a-b117-38ef2a0c8ee3/public_url">
-  <img align="center" height="250" src="https://images.credly.com/size/340x340/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png">
+  <img align="center" height="150" src="https://images.credly.com/size/340x340/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png">
 </a>
 
 <a href="https://aasxhp5ab.cc.rs6.net/tn.jsp?f=001_ZhrWlqH8niCr3GOqkquq_1EHL2RrX7mf4wmiPVtEb_LUfXcIRZfxCFFDii7dqUdUYnFeULaCTRJb8Ye4mWomZ0289hHxUdNvj6tWkaKQQPaZZwKjHdU_XHlBQe6SZq4yG640xxZNlSlkbg1HKBUeHfX7HTFGvFniV6v-cgakAJZBYT0JrvkAWgHW0rDWrZOeKs5Mu7wR30T8a8j1TfrTS6m5WSwhIvrHv1liLJjVdlKc87V2z2EkYgH8IReeufs&c=7iMYYO1aR8iIVjBUuQ6SkM1qzkGw5jWW1NnmbICcaIS4vg6pGWmOPg==&ch=AJ_JXeaNmZgdFoEDdjY4xZQEsTk6iCs0Ye2kaa_x2JQcK9AO0hzh7Q==">
-  <img align="center" height="250" src="https://github.com/chikobara/chikobara/blob/main/Virtual%20Guest%20Passport%20Stamp_Crew9_SLC40_Final_2024%0A.png">
+  <img align="center" height="150" src="./Virtual-Guest-Passport-Stamp_Crew9_SLC40_Final_2024
+.png">
 </a>
 
 <a href="https://aasxhp5ab.cc.rs6.net/tn.jsp?f=001aiyQtqzYNMVfv5bSD4rj33ZCmAvsRDmhR71FaIqflkTsV0jDA6-g6aEn_uvj5QcWT0DzsdHutJRTNG-cfMKUjd4Si1PKvEkRr7hO5SKhbNf_CPLb1G30cF43l1fCzWjmj5Wlq3HpjPJFl6ALaK6E6QyyUZBU0YiT8HyD1dppsCN4L2PLtxNIvF-D5RhZztEmv1GDfwxIjH7nEunl0m7jkOkybjPUT_GLo8ZaZ2HLkEkfzb6egS2yHIFWM-bDV9HN&c=UbM5o7aPCPpfSmUyB14zRbK19l0DG_pS_ZE1D74V0t8XreirP1fqNg==&ch=TmbeplMOCLmuM-qpqNjLg3HzgENgawMjP54wltFL4W6KNkDTxsi6uQ==">
-<img align='center' height="250" src="https://github.com/chikobara/chikobara/blob/main/VIrtual%20Guest%20Passport%20Stamp_Europa%20Clipper_Spacecraft.png"></a>
+<img align='center' height="150" src="./VIrtual-Guest-Passport-Stamp-Europa-Clipper-spacecraft.png"></a>
 
 <br><br>
 
