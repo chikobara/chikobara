@@ -22,7 +22,7 @@
 ###
 
 <a href="https://www.credly.com/badges/8f9dc32a-dc2d-481d-9487-371d32b836ea/public_url">
-  <img align="center" style="border-radius: 50%;" height="250" src="https://images.credly.com/size/340x340/images/f283df3d-1780-4c2d-947d-fc80eae0953b/image.png">
+  <img align="center" style="border-radius: 50%;" height="250" src="./ibm-ml-badge.png">
 </a>
 
 <a href="https://www.credly.com/badges/20535e30-56e7-4e2a-b117-38ef2a0c8ee3/public_url">
